@@ -1,4 +1,4 @@
-About Me
+About Me <br/>
 Hello, I'm Oktay Gedik, a Frontend Developer specializing in React and React Native. I'm thrilled to welcome you to my GitHub profile!
 
 Who Am I?

@@ -1,7 +1,7 @@
 About Me <br/><br/>
 Hello, I'm Oktay Gedik, a Frontend Developer specializing in React and React Native. I'm thrilled to welcome you to my GitHub profile!
 
-Who Am I?<br/><br/>
+Who Am I?<br/>
 I am a passionate and enthusiastic developer who is constantly seeking new challenges and opportunities for learning and growth. With a strong foundation in web and mobile app development, I've dedicated myself to mastering the art of creating elegant and functional user interfaces.
 
 Specialized:<br/>

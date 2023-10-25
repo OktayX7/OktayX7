@@ -1,22 +1,22 @@
-About Me <br/>
+About Me <br/><br/>
 Hello, I'm Oktay Gedik, a Frontend Developer specializing in React and React Native. I'm thrilled to welcome you to my GitHub profile!
 
-Who Am I?
+Who Am I?<br/>
 I am a passionate and enthusiastic developer who is constantly seeking new challenges and opportunities for learning and growth. With a strong foundation in web and mobile app development, I've dedicated myself to mastering the art of creating elegant and functional user interfaces.
 
-Specialized:
+Specialized:<br/>
 Frontend Development: Frontend development is not just my job; it's my passion. I love crafting user interfaces that are not only visually appealing but also user-friendly and responsive.
 
 React & React Native: These are my go-to tools in my development arsenal. I'm fascinated by the possibilities they offer and enjoy building engaging and interactive applications with them.
 
 Problem-Solving: I relish the process of tackling complex problems and finding innovative solutions. Every challenge is an opportunity to learn and improve.
 
-What You'll Find Here
+What You'll Find Here<br/>
 On my GitHub, you'll discover a collection of projects, code snippets, and repositories that reflect my journey as a developer. Whether it's a new project I'm working on, an experiment, or a solution to a real-world problem, I enjoy sharing my work with the open-source community.
 
 Feel free to explore, provide feedback, or collaborate on projects. Let's learn, grow, and create together!
 
-Get in Touch
+Get in Touch<br/>
 I'm always open to new opportunities, collaborations, and conversations. If you'd like to connect or discuss potential projects, please don't hesitate to reach out through GitHub or find me on LinkedIn or Instagram. [oktayygedikk@gmail.com]
 
 Thank you for visiting my GitHub profile. Let's embark on this exciting journey of code, creativity, and continuous learning together! 💻🚀
